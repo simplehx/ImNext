@@ -1,7 +1,6 @@
 # ImNext: Irregular Interval Attention and Multi-task Learning for Next POI Recommendation
 
-***Note: We will release the complete training code after this paper is accepted.***
-
+***Note: Our paper is currently under review, with some core code already released. Full code will be made available upon paper acceptance.***
 
 ## Requirements
 * pytorch == 2.0.1
