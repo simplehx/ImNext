@@ -25,3 +25,16 @@ The original dataset can be downloaded from:
 * step 3: run generate_dataset.py
 * step 4: run dataset_trans.py
 * step 5: run train.py
+
+
+## Reference
+```
+@article{he2024imnext,
+  title={ImNext: Irregular Interval Attention and Multi-Task Learning for Next POI Recommendation},
+  author={He, Xi and He, Weikang and Liu, Yilin and Lu, Xingyu and Xiao, Yunpeng and Liu, Yanbing},
+  journal={Knowledge-Based Systems},
+  pages={111674},
+  year={2024},
+  publisher={Elsevier}
+}
+```
